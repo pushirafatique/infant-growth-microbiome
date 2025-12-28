@@ -1,0 +1,10 @@
+infant_id,sample_month,infant_age_months,weight_z_score,height_z_score,bacterial_abundance_Bifidobacterium,bacterial_abundance_Bacteroides,bacterial_abundance_Lactobacillus,bacterial_abundance_Clostridium
+infant_001,0,0,-0.2,0.1,0.45,0.32,0.12,0.08
+infant_001,1,1,0.1,0.3,0.50,0.28,0.15,0.05
+infant_001,2,2,0.3,0.4,0.55,0.25,0.18,0.03
+infant_002,0,0,-0.5,-0.3,0.30,0.40,0.10,0.12
+infant_002,1,1,-0.2,-0.1,0.35,0.38,0.12,0.10
+infant_002,2,2,0.0,0.0,0.40,0.35,0.15,0.08
+infant_003,0,0,0.1,0.2,0.60,0.20,0.10,0.05
+infant_003,1,1,0.2,0.3,0.65,0.18,0.12,0.04
+infant_003,2,2,0.4,0.5,0.70,0.15,0.14,0.02
